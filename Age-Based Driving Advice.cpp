@@ -5,7 +5,7 @@ int main()
 {
 	int age;
 	
-	cout << "What is your age? ";
+	cout << "What is your age? : ";
 	cin >>age;
 	if (age < 16 ) {
 		cout << " Too young to drive " << endl;
